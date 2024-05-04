@@ -2,13 +2,13 @@
 <br>
 <img src="https://github.com/KrishDhanani/KrishDhanani/blob/main/pixel-gaming-room.960x540.gif" width="975" align="center">
 <br>
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="full">
+<img src="https://www.gifs.cc/line-green-arrows-animated.gif" width="975" height="13>
 <br>
-<h1 align="center">Hi 😈... I'm Hir Patel ☠️</h1>
-<h3 align="center">CyberSecurity and App Developer</h3>
-<img align="right" alt="coding"width="375"src="https://github.com/HIRU1920/Java-ExCodes/blob/main/CyBER%20SECURITY.gif">
+<h1 style="text-align: center;">Hi😈...I'm Krish Dhanani☠️</h1>
+<h3 align="center">Data Scientist and Python Developer</h3>
+<img align="right" alt="coding"width="375"src="https://github.com/KrishDhanani/Java-ExCodes/blob/main/CyBER%20SECURITY.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hiru1920&label=Profile%20views&color=0e75b6&style=flat" alt="hiru1920" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=KrishDhanani&label=Profile%20views&color=0e75b6&style=flat" alt="hiru1920" /> </p>
 
 </a> </p>
 
