@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="full">
 <br>
-<img src="[https://www.icegif.com/wp-content/uploads/2023/12/icegif-96.gif](https://motionbgs.com/media/4996/pixel-gaming-room.960x540.mp4)" width="975" align="center">
+<img src="https://github.com/KrishDhanani/KrishDhanani/blob/main/pixel-gaming-room.960x540.gif" width="975" align="center">
 <br>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="full">
 <br>
