@@ -1,10 +1,12 @@
+<h1 align="center">Hello there!😈...I'm Krish Dhanani☠️</h1>
+
 <img src="https://www.gifs.cc/line-green-arrows-animated.gif" width="975" height="13">
 <br>
 <img src="https://github.com/KrishDhanani/KrishDhanani/blob/main/pixel-gaming-room.960x540.gif" width="975" align="center">
 <br>
 <img src="https://www.gifs.cc/line-green-arrows-animated.gif" width="975" height="13>
 <br>
-<h1 style="text-align: center;">Hi😈...I'm Krish Dhanani☠️</h1>
+
 <h3 align="center">Data Scientist and Python Developer</h3>
 <img align="right" alt="coding"width="375"src="https://github.com/KrishDhanani/Java-ExCodes/blob/main/CyBER%20SECURITY.gif">
 
