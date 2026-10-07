@@ -8,8 +8,8 @@ Data Science student learning AI, with hands-on experience training machine lear
 - 📚 Building RAG (Retrieval-Augmented Generation) projects that let an LLM answer from my own documents
 
 ## 🎓 What I know
-- **Model training:** preparing data, training, evaluating and improving ML/DL models (completed a bootcamp on this)
-- **RAG:** embeddings, vector search and connecting retrieval to an LLM (completed a course on this)
+- **Model training:** preparing data, training, evaluating and improving ML/DL models 
+- **RAG:** embeddings, vector search and connecting retrieval to an LLM
 - **Data work:** cleaning, analysing and visualising data with Pandas and SQL
 
 ## 🛠️ Languages and tools
