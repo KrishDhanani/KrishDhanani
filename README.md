@@ -27,6 +27,7 @@ Data Science student learning AI, with hands-on experience training machine lear
 **Backend and databases**
 
 ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
